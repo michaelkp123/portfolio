@@ -1,6 +1,7 @@
 <template>
-  <div class="Ommig">
+  <div class="Kontakt">
       <Navbar></Navbar>
+
   </div>
   
 </template>
