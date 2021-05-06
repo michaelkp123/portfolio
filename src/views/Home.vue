@@ -2,7 +2,6 @@
   <div class="home">
 <Navbar></Navbar>
   <Hero></Hero>
-  <h1>hej michael</h1>
   </div>
 </template>
 
